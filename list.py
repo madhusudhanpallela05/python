@@ -8,7 +8,7 @@ while n:
 print(my_list)
 print(type(my_list))
 #to find the length of list use len()
-print(len(my_list)
+print(len(my_list))
 #convertig list into another
 n=tuple(my_list)
 print(type(my_list))
@@ -19,6 +19,9 @@ print(m)
 o=list(my_list)
 print(type(my_list))
 print(o)
+
+
+
 # creating list by using list() constructor
 thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
 print(thislist)
