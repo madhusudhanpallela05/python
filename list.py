@@ -36,7 +36,7 @@ print(my_list[1])
 print(my_list[-1])
 
 
-# for accesing elements  in bettem the given index
+# for accesing elements   by slicing method in bettem the given index
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5])
